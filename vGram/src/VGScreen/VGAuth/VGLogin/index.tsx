@@ -4,7 +4,7 @@ import React from 'react';
 const VGLogin = () => {
   return (
     <View>
-      <Text>vm gojiya</Text>
+      <Text>Login</Text>
     </View>
   );
 };
